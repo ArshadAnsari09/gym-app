@@ -1,5 +1,5 @@
 This app is created using 
-React, Rapid API(Youtube Api and ExerciseDB Api
+React, Material UI, Rapid API(Youtube Api and ExerciseDB Api)
 
 Rapid Api : https://rapidapi.com/
 ExerciseDB API : https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/
