@@ -1,4 +1,4 @@
-This app is created using 
+This app has been created using 
 React, Material UI, Rapid API(Youtube Api and ExerciseDB Api)
 
 Rapid Api : https://rapidapi.com/
