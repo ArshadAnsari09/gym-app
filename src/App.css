@@ -1,20 +1,15 @@
-body {
-    font-family: 'Josefin Sans';
-    /* background-color: #fbf2ea; */
-    /* background-color: #fff;
-background-image: url("https://www.transparenttextures.com/patterns/shattered-dark.png"); */
-background-color: #fff;
-background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
-
-  }
-  
-  * {
+* {
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
   
   }
+
+body {
+    font-family: 'Josefin Sans';
+    background-color: #fff;
+    background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
+    }
   
   ::-webkit-scrollbar {
     width: 0px;
